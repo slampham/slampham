@@ -9,15 +9,7 @@ I'm [Spencer Pham](https://spencerpham.dev/). My passion is making fullstack app
 - 📝 [Resume](https://www.spencerpham.dev/static/media/SpencerPhamResume.3c3f8ba6.pdf)
 
 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   13 hrs 54 mins  ████████████████▓░░░░░░░░   66.54 % 
-JSX          4 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-SCSS         2 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-```
-<!--END_SECTION:waka-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=slampham)](https://github.com/anuraghazra/github-readme-stats)
 
 📈 My GitHub Stats
 
