@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm [Spencer Pham](https://spencerpham.dev/). I enjoy making fullstack applications that can "wow" a person away. See the stats below to get an insight into my programming style!
+I'm [Spencer Pham](https://spencerpham.dev/). My passion is making fullstack applications that can "wow" a person away. See the stats below to get an insight into my programming style!
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
